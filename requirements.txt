@@ -1,0 +1,9 @@
+pygame
+dearpygui
+pillow
+numpy
+pyglm==2.7.3
+keras
+loguru
+matplotlib
+tensorflow
